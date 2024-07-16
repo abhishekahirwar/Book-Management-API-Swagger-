@@ -1,0 +1,19 @@
+{
+  "name": "restfull-api-with-swagger",
+  "version": "1.0.0",
+  "description": "Comprehensive Swagger API documentation for educational purposes, detailing how to use and implement the API.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Abhishek Ahirwar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.1",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
