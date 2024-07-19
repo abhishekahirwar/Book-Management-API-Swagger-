@@ -111,8 +111,6 @@ Make sure to create a .env file in the directory and add the following essential
 * [GitHub](https://github.com/abhishekahirwar) **Abhishek Ahirwar**
 * [LinkedIn](https://www.linkedin.com/in/abhishek-ahirwar-85951b217) **Abhishek Ahirwar**
 
-## Additional Resources
+# Swagger Docs
 
-[Book Management API Live Deployed]() **Book Management API**
-
-[API Documentation]() **API Documentation**
+[Swagger docs](): []()
